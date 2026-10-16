@@ -1,0 +1,10 @@
+RaceDay - PROG6212 POE Part 2
+Student: Austin Lolwane (ST10450642)
+
+GitHub repository: https://github.com/PhumlaniLolwane/raceday
+Branch for Part 2: part2-api
+Direct link to branch: https://github.com/PhumlaniLolwane/raceday/tree/part2-api
+
+Repository contents: RaceDay.Api (API), RaceDay.Tests (tests), docs/ (ERD, endpoint plan, SQL script, CI screenshot), .github/workflows/ci.yml, README.md
+
+YouTube video (unlisted): <add link here once uploaded>
