@@ -1,5 +1,7 @@
 # RaceDay – Part 2: RESTful API
 
+**This is Part 2 of the POE (RESTful API).** Work for this part lives on the branch `part2-api`.
+
 [![CI](https://github.com/PhumlaniLolwane/raceday/actions/workflows/ci.yml/badge.svg)](https://github.com/PhumlaniLolwane/raceday/actions/workflows/ci.yml)
 
 ## About the system
